@@ -2,7 +2,7 @@
 
 This software is able to download playlists and videos as a music mp3 files, it also adds a cover to your music. So don't be hesitate and download it. 
 
-#Installation
+# Installation
 
 - 1.Install ![python3](https://www.python.org/downloads/)
 - 2.Install ![pip](https://pip.pypa.io/en/stable/installation/)
