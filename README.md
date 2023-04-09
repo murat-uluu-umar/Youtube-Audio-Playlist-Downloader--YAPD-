@@ -12,7 +12,7 @@ This software is able to download playlists and videos as a music mp3 files, it 
 
 That's it! Now, let's run Ymp3.py file
 
-So, there is two options. Playlist and single file downloading.
+So, there are two options. Playlist and single file downloading.
 
 ![](https://github.com/murat-uluu-umar/Youtube-Audio-Playlist-Downloader--YAPD-/blob/master/YA%26PD%20screenshots/2.png)
 ![](https://github.com/murat-uluu-umar/Youtube-Audio-Playlist-Downloader--YAPD-/blob/master/YA%26PD%20screenshots/3.png)
